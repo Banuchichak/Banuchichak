@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Banuchichak
-- 👀 I’m interested in python for digital science
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in Cyber Security 
 - 📫 How to reach me +994 051 476 90 07
 
 <!---
